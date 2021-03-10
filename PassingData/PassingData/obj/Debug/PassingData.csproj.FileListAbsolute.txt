@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\bin\Debug\PassingData.exe.config
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\bin\Debug\PassingData.exe
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\bin\Debug\PassingData.pdb
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.PassingData.resources
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.exe
+C:\Users\DefaultTheMighty\source\repos\PassingData\PassingData\obj\Debug\PassingData.pdb

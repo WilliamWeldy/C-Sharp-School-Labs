@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\Area\Area\bin\Debug\Area.exe.config
+C:\Users\DefaultTheMighty\source\repos\Area\Area\bin\Debug\Area.exe
+C:\Users\DefaultTheMighty\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.exe
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.pdb
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\Area\Area\obj\Debug\Area.areaForm.resources

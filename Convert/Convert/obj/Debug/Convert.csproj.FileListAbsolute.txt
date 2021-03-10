@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.convertForm.resources
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\DefaultTheMighty\source\repos\Convert\Convert\obj\Debug\Convert.pdb

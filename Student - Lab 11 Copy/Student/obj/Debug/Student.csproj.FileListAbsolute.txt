@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\Student\Student\bin\Debug\Student.exe.config
+C:\Users\DefaultTheMighty\source\repos\Student\Student\bin\Debug\Student.exe
+C:\Users\DefaultTheMighty\source\repos\Student\Student\bin\Debug\Student.pdb
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.exe
+C:\Users\DefaultTheMighty\source\repos\Student\Student\obj\Debug\Student.pdb

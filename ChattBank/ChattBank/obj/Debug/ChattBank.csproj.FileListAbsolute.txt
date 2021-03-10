@@ -1,0 +1,27 @@
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\bin\Debug\ChattBank.exe.config
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\bin\Debug\ChattBank.exe
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\bin\Debug\ChattBank.pdb
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.csprojResolveAssemblyReference.cache
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.AdminTestClassesForm.resources
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.LoginForm.resources
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.Properties.Resources.resources
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.GenerateResource.Cache
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.exe
+C:\Users\wweldy\Documents\Visual Studio 2015\Projects\ChattBank\ChattBank\obj\Debug\ChattBank.pdb
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe.config
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.exe
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\bin\Debug\ChattBank.pdb
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.AdminTestClassesForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.LoginForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.exe
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.pdb
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.AdminMainForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.CustomerDepositForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.CustomerViewAccountsForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.CustomerWithdrawForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.AdminCustomerCreateForm.resources
+C:\Users\DefaultTheMighty\source\repos\ChattBank\ChattBank\obj\Debug\ChattBank.AdminCustomerDeleteForm.resources

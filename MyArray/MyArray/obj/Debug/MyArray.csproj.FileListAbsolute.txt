@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\bin\Debug\MyArray.exe.config
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\bin\Debug\MyArray.exe
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\bin\Debug\MyArray.pdb
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.myArray.resources
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.exe
+C:\Users\DefaultTheMighty\source\repos\MyArray\MyArray\obj\Debug\MyArray.pdb

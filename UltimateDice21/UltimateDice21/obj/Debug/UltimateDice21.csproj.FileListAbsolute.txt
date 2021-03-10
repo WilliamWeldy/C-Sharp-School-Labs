@@ -1,0 +1,10 @@
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\bin\Debug\UltimateDice21.exe.config
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\bin\Debug\UltimateDice21.exe
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\bin\Debug\UltimateDice21.pdb
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.csprojResolveAssemblyReference.cache
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.Form1.resources
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.Properties.Resources.resources
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.csproj.GenerateResource.Cache
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.csproj.CoreCompileInputs.cache
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.exe
+C:\Users\DefaultTheMighty\source\repos\UltimateDice21\UltimateDice21\obj\Debug\UltimateDice21.pdb
